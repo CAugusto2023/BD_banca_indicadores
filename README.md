@@ -11,21 +11,21 @@ Permitir la clasificación de indicadores por categoría (ej: liquidez, riesgo, 
 
 Sucursal
 
-  ID
+-ID
   
-  Nombre
+-Nombre
   
-  Ciudad
+-Ciudad
   
-  Región
+-Región
 
 Indicador
 
-ID
-Nombre
-Descripción
-Unidad de medida
-Categoría (Ej. “Riesgo de crédito”, “Liquidez”, “Atención al cliente”)
+-ID
+-Nombre
+-Descripción
+-Unidad de medida
+-Categoría (Ej. “Riesgo de crédito”, “Liquidez”, “Atención al cliente”)
 
 SistemaFuente
 
