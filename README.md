@@ -11,13 +11,13 @@ Permitir la clasificación de indicadores por categoría (ej: liquidez, riesgo, 
 
 Sucursal
 
-ID
-
-Nombre
-
-Ciudad
-
-Región
+  ID
+  
+  Nombre
+  
+  Ciudad
+  
+  Región
 
 Indicador
 
