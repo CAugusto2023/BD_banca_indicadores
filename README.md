@@ -22,33 +22,48 @@ Sucursal
 Indicador
 
 -ID
+
 -Nombre
+
 -Descripción
+
 -Unidad de medida
+
 -Categoría (Ej. “Riesgo de crédito”, “Liquidez”, “Atención al cliente”)
 
 SistemaFuente
 
-ID
-Nombre del sistema
-Responsable
+-ID
+
+-Nombre del sistema
+
+-Responsable
 
 RegistroIndicadorDiario
 
-ID
-Fecha
-IDIndicador
-IDSucursal
-ValorReal
-ValorMeta
-IDSistemaFuente
+-ID
+
+-Fecha
+
+-IDIndicador
+
+-IDSucursal
+
+-ValorReal
+
+-ValorMeta
+
+-IDSistemaFuente
 
 DesviacionIndicador (opcional, derivada o materializada)
 
-IDRegistroIndicadorDiario
-DiferenciaAbsoluta
-DiferenciaPorcentual
-Clasificación (Ej. Sin desvío, Ligera, Crítica)
+-IDRegistroIndicadorDiario
+
+-DiferenciaAbsoluta
+
+-DiferenciaPorcentual
+
+-Clasificación (Ej. Sin desvío, Ligera, Crítica)
 
 📘 Reglas de negocio: Cada indicador debe estar asociado a una categoría.
 
