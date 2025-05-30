@@ -85,11 +85,16 @@ Cantidad de operaciones realizadas por canal digital.
 ¿Cómo evolucionó el indicador "Número de cuentas abiertas" en Lima durante el último trimestre?
 
 Diagra entidad relación
-https://private-user-images.githubusercontent.com/30308669/443466999-0fe023d5-69ca-4631-a745-19e503f5bf46.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1Nzk3ODYsIm5iZiI6MTc0ODU3OTQ4NiwicGF0aCI6Ii8zMDMwODY2OS80NDM0NjY5OTktMGZlMDIzZDUtNjljYS00NjMxLWE3NDUtMTllNTAzZjViZjQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTMwVDA0MzEyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliZDk3MjRlOTg0MDI1YTA4MmNkYzQ1YzBjOTVlODhkOWNmYzIyYTM0MjBjNGY2OGM1MzBjN2I5ZTgyMjQyYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oMCpp3shyS5Gr7iQrfvsNlt1UVFERdiAtd8K2r5mCN0
+
+![image](https://github.com/user-attachments/assets/d1441bd4-ff9a-45db-aaa3-3b0c7763610c)
 
 
 Diseño lógico
-bd_banca_indicadores_diarios_1
+
+![image](https://github.com/user-attachments/assets/ea1a4230-116c-4db6-ac45-1ce7b7edf909)
+
 
 Modelo Físico
-image
+
+![image](https://github.com/user-attachments/assets/74134015-782a-40a1-b377-f4f4d4d13f49)
+
